@@ -5,7 +5,9 @@ Not yet decided what the project is about 😅.
 
 Authors- Tejeswar and Monisha
 
-# Plan
+---
+
+## Plan
 
 Learn some new things.
-.check this 
+
