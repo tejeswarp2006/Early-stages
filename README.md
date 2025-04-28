@@ -10,6 +10,4 @@ Authors- Tejeswar and Monisha
 ## Plan
 
 Learn some new things.
-Expecting the other collaborator to edit this section.
 
----
