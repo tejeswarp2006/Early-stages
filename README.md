@@ -19,5 +19,5 @@ The extension of the files will be ``.c``
 Compilation will be done using **GCC**
 
 tiny steps
-the other person is ............
+exploring git
 
