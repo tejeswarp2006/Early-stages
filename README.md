@@ -1,8 +1,8 @@
 # Early stages
 
-This is a project we'll be doing.
+This is the first project we'll be doing in **`C language`**.
 
-So this project is about the reflex time you have. 
+So this project is about the reflex or response time you have. 
 The faster you react the more is your reflex. 
 
 In the modern days people are just scrolling through reels and brainrotting. This is a program for people to test their reflex time.
