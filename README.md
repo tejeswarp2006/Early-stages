@@ -21,3 +21,7 @@ Compilation will be done using **GCC**
 tiny steps
 exploring git
 
+## Requirements
+
+- GCC for compiling `.c` files – install [MinGW](https://www.mingw-w64.org/)
+
